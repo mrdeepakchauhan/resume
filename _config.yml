@@ -8,27 +8,27 @@ plugins: [jekyll-paginate]
 port: 4000
 safe: true
 url: http://myjekyll.github.io/vitae
-author: Fábio Madeira
+author: Deepak Chauhan
 
 # edit this section with your information
 # myjekyll.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /resume/
-title: Ayush Watnani's Resume
-name: Ayush Watnani
-email: ayushwatnani@gmail.com
-email_full: mailto:ayushwatnani@gmail.com
-website: ayushwatnani.github.io
-website_full: https://ayushwatnani.github.io
-github: ayushwatnani
-twitter: ayushwatnani
-tel: +91 81035 97224
-tel_full: tel:+918103597224
+title: Deepak Chuahan's Resume
+name: Deepak Chauhan
+email: dc84477@gmail.com
+email_full: mailto:dc84477@gmail.com
+website: mrdeepakchauhan.github.io
+website_full: https://mrdeepakchauhan.github.io
+github: mrdeepakchauhan
+twitter: dc84477
+tel: +91 8319787486
+tel_full: tel:+918319787486
 
 google_maps: 'https://goo.gl/maps/7c11cbzF2k32'
 address:
-  street: 61/3 Nehru Nagar West
-  postcode: 490020
+  street: EWS 22, Power House
+  postcode: 490026
   city: Bhilai
   country: India
 #google_analytics: UA-69300817-1
